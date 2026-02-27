@@ -27,7 +27,7 @@ Initiate the Spec-Driven Development workflow and generate requirements.md, desi
 
 For visual guidance, refer to the screenshot below:
 
-![Kiro Prompt Screenshot](Images/Kiro-Prompt-Screenshot.png)
+![Kiro Prompt Screenshot](Kiro-Prompt-Screenshot.png)
 
 This shows you exactly where to enter the prompt in the Kiro interface.
 
