@@ -8,12 +8,19 @@ In this workshop, you'll learn how to leverage Kiro's AI-powered IDE to build a 
 
 ## Getting Started
 
-### Step 1: Open Kiro Spec
+### Step 1: Copy the Steering Files
+
+1. Copy the steering files from this repository to .kiro folder in your workspace:
+   - `product.md` - Product vision and principles
+   - `tech.md` - Technical stack and constraints
+   - `structure.md` - Project structure guidelines
+
+### Step 2: Open Kiro Spec
 
 1. In Kiro, open the **Spec** panel (look for the Spec icon in the sidebar or use the command palette)
 2. Click on **"New Spec"** to create a new specification
 
-### Step 2: Enter the Prompt
+### Step 3: Enter the Prompt
 
 Copy and paste the following prompt into the Spec input field:
 
