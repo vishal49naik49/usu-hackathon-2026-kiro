@@ -39,12 +39,11 @@ The first time you access Kiro, you'll receive 500 bonus credits* usable within 
    - `tech.md` - Technical stack and constraints
    - `structure.md` - Project structure guidelines
 
-### Step 2: Open Kiro Spec
+### Step 2: Start Spec-Driven Development
 
-1. In Kiro, open the **Spec** panel (look for the Spec icon in the sidebar)
-2. Click on **"New Spec"** to create a new specification
+Get started with Spec-Driven Development by entering the prompt shown in the image below. 
 
-For detailed instructions, see [Kiro's Getting Started Guide](https://kiro.dev/docs/getting-started/first-project/#open-your-project).
+For detailed instructions on opening your project and using the Spec panel, see [Kiro's Getting Started Guide](https://kiro.dev/docs/getting-started/first-project/#open-your-project).
 
 ![Kiro Prompt Screenshot](Kiro-Prompt-Screenshot.png)
 
