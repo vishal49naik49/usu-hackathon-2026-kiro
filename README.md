@@ -44,25 +44,12 @@ The first time you access Kiro, you'll receive 500 bonus credits* usable within 
 1. In Kiro, open the **Spec** panel (look for the Spec icon in the sidebar or use the command palette)
 2. Click on **"New Spec"** to create a new specification
 
+![Kiro Prompt Screenshot](Kiro-Prompt-Screenshot.png)
+
 ### Step 3: Enter the Prompt
 
 Copy and paste the following prompt into the Spec input field:
 
-```
-I have populated the steering files (product.md, tech.md, structure.md). Read them. Based on those standards, I want to build a 'Supply Chain Visibility' Streamlit app.
-
-Initiate the Spec-Driven Development workflow and generate requirements.md, design.md, and tasks.md.
-```
-
-### Step 3: Review the Screenshot
-
-For visual guidance, refer to the screenshot below:
-
-![Kiro Prompt Screenshot](Kiro-Prompt-Screenshot.png)
-
-This shows you exactly where to enter the prompt in the Kiro interface.
-
-**The Prompt to Enter:**
 ```
 I have populated the steering files (product.md, tech.md, structure.md). Read them. Based on those standards, I want to build a 'Supply Chain Visibility' Streamlit app.
 
