@@ -9,7 +9,8 @@ Empower business users at ImaginaryCompany to deploy governed data applications 
 
 ## Core Principles
 
-```
+
 **Self-Service:** The app must be intuitive and conversational.
+
 **Performant:** Dashboards should load quickly with clear visualizations.
-```
+
